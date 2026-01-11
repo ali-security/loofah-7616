@@ -845,7 +845,6 @@ module Loofah
                                                  "image/gif",
                                                  "image/jpeg",
                                                  "image/png",
-                                                 "image/svg+xml",
                                                  "text/css",
                                                  "text/plain",
                                                ])
